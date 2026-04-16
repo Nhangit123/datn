@@ -1,0 +1,3 @@
+../Core/Src/Machine.c:29:6:MachineParameterConfig	1
+../Core/Src/Machine.c:36:6:StateMachine_Init	1
+../Core/Src/Machine.c:40:6:StateMachine	11

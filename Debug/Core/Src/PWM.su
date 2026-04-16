@@ -1,0 +1,2 @@
+../Core/Src/PWM.c:5:6:PWM_Set	32	static
+../Core/Src/PWM.c:38:6:delay_us	24	static
