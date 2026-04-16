@@ -99,7 +99,7 @@ void StateMachine(void)
 		}
 		else if(mCtr.enum_mState == mFLT)
 			{
-				PWM_Set(0.95, 40000);
+				PWM_Set_Braking(0.95, 40000);
 			}
 	}		
 }

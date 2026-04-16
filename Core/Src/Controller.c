@@ -377,7 +377,6 @@ void ControlLoop_State3_FullPID(machine_control *mctr, PWM *PWM_var, cPI *pPIV, 
 	{
 		PWM_var->dutylow = PWM_var->dutylow;
 	}
-	PWM_var->dutyhigh = 1 - PWM_var->dutylow;
 	// PWM
 	PWM_Set(PWM_var->dutylow, 40000);
 }

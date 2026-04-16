@@ -303,6 +303,7 @@ extern volatile uint8_t uart4_tx_done_flag;
 extern volatile uint8_t uart4_rx_done_flag;
 //PWM
 void PWM_Set(float duty, float freq);
+void PWM_Set_Braking(float duty, float freq);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
