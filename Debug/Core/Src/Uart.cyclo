@@ -1,0 +1,11 @@
+../Core/Src/Uart.c:43:6:vUsart_DataInit	1
+../Core/Src/Uart.c:55:6:update_data_TX	1
+../Core/Src/Uart.c:74:13:UART4_PackFrame	1
+../Core/Src/Uart.c:94:6:update_data_RX	1
+../Core/Src/Uart.c:100:19:UART4_StartRxDMA	3
+../Core/Src/Uart.c:124:19:USER_UART_TxData	3
+../Core/Src/Uart.c:152:6:USER_UART_RxDataHandle	2
+../Core/Src/Uart.c:169:6:HAL_UART_RxCpltCallback	2
+../Core/Src/Uart.c:182:6:HAL_UART_TxCpltCallback	2
+../Core/Src/Uart.c:194:6:HAL_UART_ErrorCallback	2
+../Core/Src/Uart.c:211:6:UART4_DMA_Init	1

@@ -8,6 +8,7 @@
 "master\lpf.o"
 "master\machine.o"
 "master\uart.o"
+"master\pwm.o"
 "master\stm32h7xx_hal_adc.o"
 "master\stm32h7xx_hal_adc_ex.o"
 "master\stm32h7xx_hal_rcc.o"

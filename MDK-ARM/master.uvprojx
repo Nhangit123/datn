@@ -432,6 +432,11 @@
               <FileType>1</FileType>
               <FilePath>E:\cut\Core\Src\Uart.c</FilePath>
             </File>
+            <File>
+              <FileName>PWM.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>E:\cut\Core\Src\PWM.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

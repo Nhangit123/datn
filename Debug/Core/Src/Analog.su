@@ -1,0 +1,2 @@
+../Core/Src/Analog.c:10:6:vAdc_DataInit	24	static
+../Core/Src/Analog.c:36:6:vADC_Data_Handle	32	static

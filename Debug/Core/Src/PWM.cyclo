@@ -1,0 +1,3 @@
+../Core/Src/PWM.c:6:6:PWM_Set	8
+../Core/Src/PWM.c:39:6:PWM_Set_Braking	8
+../Core/Src/PWM.c:72:6:delay_us	2
